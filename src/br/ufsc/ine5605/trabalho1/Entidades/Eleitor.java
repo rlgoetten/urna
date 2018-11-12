@@ -7,7 +7,7 @@ package br.ufsc.ine5605.trabalho1.Entidades;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class Eleitor {
     private String nome;

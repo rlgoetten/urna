@@ -7,7 +7,7 @@ package br.ufsc.ine5605.trabalho1.Entidades;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public enum TURNO {
     

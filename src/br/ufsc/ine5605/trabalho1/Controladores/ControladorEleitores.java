@@ -17,7 +17,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class ControladorEleitores {
     private ControladorPrincipal ctrlPrincipal;

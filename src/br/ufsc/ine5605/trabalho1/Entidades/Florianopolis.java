@@ -8,7 +8,7 @@ package br.ufsc.ine5605.trabalho1.Entidades;
 
 /**
  *
- * @author louzavio
+ * @author pablothobias
  */
 public class Florianopolis extends Municipio {
     

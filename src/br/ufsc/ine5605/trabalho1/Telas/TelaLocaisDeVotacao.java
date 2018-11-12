@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author louzavio
+ * @author pablothobias
  */
 public class TelaLocaisDeVotacao {
     

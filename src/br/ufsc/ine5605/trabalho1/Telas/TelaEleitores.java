@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class TelaEleitores {
     private ControladorEleitores ctrl;

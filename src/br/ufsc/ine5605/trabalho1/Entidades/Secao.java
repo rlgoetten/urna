@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class Secao {
     private ArrayList<Eleitor> eleitores = new ArrayList();

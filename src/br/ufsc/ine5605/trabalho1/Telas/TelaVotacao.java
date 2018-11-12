@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class TelaVotacao {
     private Scanner scanner = new Scanner(System.in);

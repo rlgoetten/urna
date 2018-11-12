@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class ControladorUrna {
     private TelaUrna tela = new TelaUrna(this);

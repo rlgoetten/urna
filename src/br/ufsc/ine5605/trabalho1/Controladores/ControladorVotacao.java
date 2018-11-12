@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class ControladorVotacao {
     private TelaVotacao tela = new TelaVotacao(this);

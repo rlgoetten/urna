@@ -9,7 +9,7 @@ import br.ufsc.ine5605.trabalho1.Controladores.ControladorPrincipal;
 import java.util.Scanner;
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class TelaPrincipal {
     private ControladorPrincipal ctrlPrinc;

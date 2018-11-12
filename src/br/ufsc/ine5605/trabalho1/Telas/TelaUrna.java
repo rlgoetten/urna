@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author jlehmkuhl
+ * @author pablothobias
  */
 public class TelaUrna {
     private Scanner scanner = new Scanner(System.in);

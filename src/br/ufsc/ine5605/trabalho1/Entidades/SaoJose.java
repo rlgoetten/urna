@@ -7,7 +7,7 @@ package br.ufsc.ine5605.trabalho1.Entidades;
 
 /**
  *
- * @author louzavio
+ * @author pablothobias
  */
 public class SaoJose extends Municipio{
     
